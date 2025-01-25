@@ -1,10 +1,10 @@
 age = 31
 puts age
 
-name = "Boris"
+name = "Alex"
 last_name = "Danger"
 puts name
-puts last_name
+puts last_name 
 
 puts age + 7 # 31 + 7
 puts name + last_name
@@ -22,4 +22,4 @@ puts age
 chameleon = 24
 chameleon = "some random text"
 chameleon = 3.15
-puts chameleon 
+puts chameleon  
